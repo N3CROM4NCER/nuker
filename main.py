@@ -1,3 +1,4 @@
+# lulu
 import discord
 from discord.ext import commands as purav
 import asyncio as puravvv
